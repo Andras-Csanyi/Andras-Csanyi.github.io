@@ -1,0 +1,11 @@
+name: andrascsanyi.com
+title: andrascsanyi.com
+version: ~
+nav:
+  - modules/c-sharp/nav.adoc
+  - modules/java/nav.adoc
+  - modules/computer-science/nav.adoc
+  - modules/practice/nav.adoc
+  - modules/devops/nav.adoc
+  - modules/open-source/nav.adoc
+  - modules/ROOT/nav.adoc
