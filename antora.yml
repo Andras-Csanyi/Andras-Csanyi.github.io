@@ -8,4 +8,5 @@ nav:
   - modules/practice/nav.adoc
   - modules/devops/nav.adoc
   - modules/open-source/nav.adoc
+  - modules/system-design/nav.adoc
   - modules/ROOT/nav.adoc
